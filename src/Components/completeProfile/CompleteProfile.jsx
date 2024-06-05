@@ -7,7 +7,7 @@ function CompleteProfile() {
   return (
     <Router>
       <div className="navbar-complete">
-        <Navbar  expand="lg">
+        <Navbar expand="lg">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto d-flex justify-content-around w-100">

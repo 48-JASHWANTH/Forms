@@ -5,7 +5,7 @@ import './NavBar.css'; // Custom CSS file
 
 const NavBar = () => {
   return (
-    <Navbar className="navbar-custom px-2 d-flex justify-content-between" expand="lg">
+    <Navbar className="navbar-custom px-2 d-flex justify-content-between sticky-top" expand="lg">
       <Navbar.Brand className="d-flex align-items-center" href="#">
         <img
           src="https://pbs.twimg.com/profile_images/1688442970587201536/dCewVE4I_400x400.jpg"
